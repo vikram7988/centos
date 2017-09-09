@@ -1,0 +1,3 @@
+17. Install a Package from Specific Repository
+
+To install a particular package from a specific enabled or disabled repository, you must use –enablerepo option in your yum command. For example to Install PhpMyAdmin 3.5.2 package, just execute the command.
